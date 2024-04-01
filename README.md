@@ -1,2 +1,2 @@
-# rlatonda
-Repositorio para los trabajos de clase 
+# Terraform Basics
+Repositorio para módulos de terraform
